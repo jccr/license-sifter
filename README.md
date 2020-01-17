@@ -1,4 +1,4 @@
-# license-gen
+# license-sifter
 
 Quick and dirty 3rd party license list generator, out of your project's NPM depedencies.
 
@@ -7,6 +7,6 @@ Quick and dirty 3rd party license list generator, out of your project's NPM depe
 For example, on this project itself:
 
 ```
-npm i
+npm install
 node index.js .
 ```
