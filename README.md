@@ -8,5 +8,5 @@ For example, on this project itself:
 
 ```
 npm install
-node index.js .
+node index.js . > LICENSE-3RD-PARTY.md
 ```
